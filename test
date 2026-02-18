@@ -1,4 +1,4 @@
 Testfile
-Echo"Hello"
+echo "Hello"
 echo "how are you"
 echo "good night"
